@@ -1,0 +1,42 @@
+div{
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5pt burlywood dotted;
+    text-indent: 1.5cm;
+}
+#bal{
+    width: 70%;
+}
+#jobb{
+    width: 80%;
+}
+p{
+    background-color: cornsilk;
+    text-align: justify;
+    padding: 3mm;
+    margin-top:2mm;
+    margin-bottom: 2mm;
+    margin-left: 6mm;
+    margin-top: 6mm;
+}
+#p1{
+
+}
+.piros{
+    border-right: 3mm darkred double
+}
+.kék{
+    margin-bottom: 1cm;
+    border-left: dashed blueviolet;
+    border-bottom: 2mm blue dashed;
+}
+
+#kek{
+    color: dodgerblue;
+    font-family: 'Cambria';
+    font-weight: bolder;
+}
+#pir{
+    color: crimson;
+    font-variant: small-caps;
+}
